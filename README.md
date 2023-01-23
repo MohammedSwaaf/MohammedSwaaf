@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [NowPay](https://nowpay.cash/)
 - ⚒️ I do JavaScript and Typescript for Devlopment and Scripting.
-- 🌱 I’m currently learning **Next js** and **Node js**
+- 🌱 I’m currently learning **Micro frontends**
 - 📫 How to reach me **mohammedswaaf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
